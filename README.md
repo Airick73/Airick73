@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eric</h1>
-<h3 align="center">I enjoy web development, C++ programming, and bleeding edge technology.</h3>
+<h3 align="center">I enjoy web/mobile app development, C++ programming, and bleeding edge technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=airick73&label=Profile%20views&color=0e75b6&style=flat" alt="airick73" /> </p>
 
