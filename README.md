@@ -1,5 +1,20 @@
 <h1 align="center">Hi 👋, I'm Eric</h1>
-<h3 align="center">I enjoy web/mobile app development, C++ programming, and bleeding edge technology.</h3>
+<h3 align="center">Currently these are the things I am interested and spend my own time exploring</h3>
+<ul>
+  <li>
+    <h4 >C++ and Python programming</h4>
+  </li>
+  <li>
+    <h4>ASR (Automatic Speech Recognition) systems</h4>
+  </li>
+  <li>
+    <h4>Hugo (Static site generator)</h4>
+  </li>
+  <li>
+    <h4>Flutter app development</h4>
+  </li>
+</ul>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=airick73&label=Profile%20views&color=0e75b6&style=flat" alt="airick73" /> </p>
 
