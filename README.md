@@ -5,7 +5,7 @@
     <h4 >C++ and Python programming</h4>
   </li>
   <li>
-    <h4 >Linux (User and Kernal space development)</h4>
+    <h4 >Linux (User space development)</h4>
   </li>
   <li>
     <h4>ASR (Automatic Speech Recognition) systems</h4>
